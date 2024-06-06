@@ -4,7 +4,7 @@ local Window = OrionLib:MakeWindow({Name = "SNOWT HUB [REWRITEN]", HidePremium =
 
 OrionLib:MakeNotification({
 	Name = "By Snowt Team",
-	Content = "TEST SCRIPT.",
+	Content = "My First Script",
 	Image = "rbxassetid://4483345998",
 	Time = 5
 })
@@ -461,8 +461,8 @@ Tab:AddLabel("The script has been created by Snowt")
 
 Tab:AddLabel("My Telegram channel: t.me/Snowt_Roblox_Scripts")
 
-Tab:AddLabel("TESTING SCRIPT")
+Tab:AddLabel("The last update: 06.06.2024")
 
-Tab:AddLabel("Version: TESTING SCRIPT")
+Tab:AddLabel("Version: 1.2")
 
 OrionLib:Init()
